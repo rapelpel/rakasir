@@ -88,7 +88,7 @@ public class menuForm extends javax.swing.JFrame {
         jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/FUFUFAFA (1) (1).png"))); // NOI18N
         jPanel1.add(jLabel6);
 
-        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1650, 0, 270, 1080));
+        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 70, 270, 1080));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents

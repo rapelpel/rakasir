@@ -438,7 +438,7 @@ this.getRootPane().getActionMap().put("deleteRow", new AbstractAction() {
         ));
         jScrollPane1.setViewportView(jTable1);
 
-        getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 291, 779, 280));
+        getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 290, 779, 280));
         getContentPane().add(jTextField11, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 10, 240, 40));
 
         jLabel22.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
